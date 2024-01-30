@@ -52,5 +52,5 @@ const employee = {
     }
 }
 const {ide, languages} = employee;
-const {address, weight} = employee.specifications;
+const {address, weight} = employee?.specifications;
 console.log(ide, languages, address, weight);
