@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/2yY5P75/top-view-desk-concept-with-coffee.jpg",
+      "title": "The Quantum Chronicles",
+      "author": "Astrid Novelist",
+      "author_img": "https://i.ibb.co/1qfNxqV/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-02-22",
+      "reading_time": 5,
+      "hashtags": ["sciencefiction", "adventure", "quantumphysics"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/2yY5P75/top-view-desk-concept-with-coffee.jpg",
+      "title": "Enigma's Embrace",
+      "author": "Mystique Wordsmith",
+      "author_img": "https://i.ibb.co/1qfNxqV/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-02-21",
+      "reading_time": 3,
+      "hashtags": ["mystery", "intrigue", "puzzles"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/2yY5P75/top-view-desk-concept-with-coffee.jpg",
+      "title": "Serenity in Shadows",
+      "author": "Luna Penumbra",
+      "author_img": "https://i.ibb.co/1qfNxqV/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-02-20",
+      "reading_time": 6,
+      "hashtags": ["fantasy", "magic", "darkromance"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/2yY5P75/top-view-desk-concept-with-coffee.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Ethereal Scribe",
+      "author_img": "https://i.ibb.co/1qfNxqV/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-02-19",
+      "reading_time": 5,
+      "hashtags": ["historicalfiction", "timetravel", "loveandloss"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/2yY5P75/top-view-desk-concept-with-coffee.jpg",
+      "title": "Celestial Harmony",
+      "author": "Harmony Lyricist",
+      "author_img": "https://i.ibb.co/1qfNxqV/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-02-18",
+      "reading_time": 4,
+      "hashtags": ["poetry", "celestial", "peace"]
+    }
+  ]
+  
